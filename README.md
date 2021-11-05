@@ -9,6 +9,8 @@ Right now I am learning git and github and after completing my training period I
 
 Skills: REACT / JS / HTML / CSS
 
+<img src='https://github.com/diksha-grover/myintro/blob/main/React-JS-1.jpg' alt='github' height='200'>
+
 - 🔭 I’m currently working on this page. 
 
 
