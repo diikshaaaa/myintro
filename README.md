@@ -17,4 +17,8 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diksha-grover)  
 
+<a href="https://www.bing.com/videos/search?q=react+js+video+tutorial&view=detail&mid=5E17858B0AB98437CDCD5E17858B0AB98437CDCD&FORM=VIRE" > <img src="https://www.bing.com/th?id=OVP.euc6kK4zpK-Gg8KarE76IwHgFo&w=606&h=340&c=7&rs=2&qlt=90&o=6&dpr=1.5&pid=1.7" width="200" height="200" border="10" /> </a>
+
+
+
 
