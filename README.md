@@ -4,4 +4,4 @@ I am Diksha Grover. I am currently working in an organization named "Crownstack 
 
 Right now I am learning git and github and after completing my training period I am looking forward to work on some great projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksha.grover&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksha-grover&theme=dark&show_icons=true)
